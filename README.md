@@ -1,4 +1,5 @@
-<img src="./00 Img/license.png" alt="license.png" width="131" height="174">  
+<img src="./00 Img/License.png" alt="LICENSE Image" width="131" height="174">
+
 # License Storage
 
 This is a hosted collections of most popular licenses. I’ve created this repository simply to host them all in one central place for personal use.
