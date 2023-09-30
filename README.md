@@ -1,4 +1,4 @@
-<img src="00 Img/license.png" alt="license.png" width="131" height="174">  
+<img src="/00 Img/license.png" alt="license.png" width="131" height="174">  
 
 # License Storage
 
